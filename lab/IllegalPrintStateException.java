@@ -1,4 +1,4 @@
-package lab;
+package src.lab;
 
 public class IllegalPrintStateException extends Exception {
 
